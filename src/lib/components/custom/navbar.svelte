@@ -11,7 +11,7 @@
 <div
 	class="fixed z-10 mb-5 hidden w-full flex-col items-center justify-center space-y-5 backdrop-blur-lg md:flex"
 >
-	<a href="/"><img src="/img/logo.png" alt="logo" class="mt-4 h-[80px]" /></a>
+	<a href="/"><img src="/img/image.png" alt="logo" class="mt-4 h-[80px]" /></a>
 	<br />
 	<Menubar.Root class="border-none bg-transparent font-semibold text-slate-400">
 		{#each NavLinks as navLink}
