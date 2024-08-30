@@ -9,10 +9,10 @@
 </script>
 
 <div
-	class="fixed z-10 mb-5 hidden w-full flex-col items-center justify-center space-y-5 backdrop-blur-lg md:flex"
+	class="fixed z-10 mb-5 hidden w-full flex-col items-center justify-center space-y-3 backdrop-blur-lg md:flex"
 >
-	<a href="/"><img src="/img/image.png" alt="logo" class="mt-4 h-[80px]" /></a>
-	<br />
+	<a href="/"><img src="/img/image.png" alt="logo" class="mt-4 h-[100px]" /></a>
+	
 	<Menubar.Root class="border-none bg-transparent font-semibold text-slate-400">
 		{#each NavLinks as navLink}
 			<Menubar.Menu>
