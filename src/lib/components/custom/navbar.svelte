@@ -9,14 +9,14 @@
 </script>
 
 <div
-	class="fixed z-10 mb-5 hidden w-full flex-col items-center justify-center space-y-3 backdrop-blur-lg md:flex"
+	class="fixed z-10 mb-5 hidden w-full items-center justify-between backdrop-blur-lg md:flex"
 >
-	<a href="/"><img src="/img/image.png" alt="logo" class="mt-4 h-[100px]" /></a>
+	<a href="/"><img src="/img/image.png" alt="logo" class="h-[150px]" /></a>
 	
 	<Menubar.Root class="border-none bg-transparent font-semibold text-slate-400">
 		{#each NavLinks as navLink}
 			<Menubar.Menu>
-				<Menubar.Trigger class="mb-4 text-lg font-semibold uppercase tracking-wide"
+				<Menubar.Trigger class="text-lg font-semibold uppercase tracking-wide"
 					>{navLink.title}</Menubar.Trigger
 				>
 				<Menubar.Content>

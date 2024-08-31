@@ -13,6 +13,6 @@
 		>
 		<p class="font-medium text-slate-600">( VPO Domeli Tehsil, Phagwara, District Karpurthala )</p>
 	</section>
-	<Stats />
+	<!-- <Stats /> -->
 	<!-- <Heading title="Our departments" url="/departments" /> -->
 </main>
