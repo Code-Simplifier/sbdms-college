@@ -35,7 +35,7 @@
 <div class="flex md:hidden">
 	<Drawer.Root>
 		<div class="fixed flex w-full justify-between p-4 backdrop-blur-lg">
-			<a href="/"><img src="/img/image.png" alt="logo" class="h-[40px]" /></a>
+			<a href="/"><img src="/img/image.png" alt="logo" class="h-[80px]" /></a>
 			<Drawer.Trigger class="">
 				<Icon icon="clarity:menu-line" class="text-xl" />
 			</Drawer.Trigger>
